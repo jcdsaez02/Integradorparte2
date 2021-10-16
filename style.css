@@ -20,6 +20,9 @@
     color: green;
     display: grid;
 }
+.nav{
+    display: inline-block;
+}
 
 
 #boton-card{
